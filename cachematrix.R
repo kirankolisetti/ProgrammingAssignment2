@@ -1,8 +1,8 @@
 
-# 1. set the value of the matrix
-# 2. get the value of the matrix
-# 3. set the value of inverse of the matrix
-# 4. get the value of inverse of the matrix
+# set the value of the matrix
+# get the value of the matrix
+# set the value of inverse of the matrix
+# get the value of inverse of the matrix
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
   set <- function(y) {
