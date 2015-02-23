@@ -12,8 +12,8 @@ makeCacheMatrix <- function(x = matrix()) {
     getMatrix <- function() {
         mat
     }
-    setMatrixinverse <- function(matinv) {
-        inv_m <<- matinv
+    setMatrixinverse <- function(matixnver) {
+        inv_m <<- matixnver
  
     }
     getMatrixinverse <- function() {
